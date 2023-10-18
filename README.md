@@ -25,3 +25,4 @@ Gitが苦手な方は、GitHubの便利な ブランチ機能を利用してく�
 フィルターで特定のブランチを選択し、オンラインでソースコードをブラウズすることができます。
 
 Gitについてもっと詳しく知りたい方は、無料で公開されている「 [Git Immersion](http://gitimmersion.com/) 」または「 [Try Git](http://www.codeschool.com/courses/try-git) 」（いずれも英語版）がお勧めです。
+
