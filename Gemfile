@@ -66,7 +66,7 @@ group :development do
 
   gem 'faker', require: false # for sample data in development
 end
-
+gem 'pry-rails'
 group :test do
   gem "capybara"
   gem "selenium-webdriver"
